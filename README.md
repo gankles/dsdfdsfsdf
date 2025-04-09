@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Solar Panels Website
+
+This is a programmatic SEO website for solar panels built with [Next.js](https://nextjs.org) and bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Features
+
+- Comprehensive database of solar panels with detailed specifications
+- Dynamic index pages for different categories (manufacturers, types, efficiency ranges, etc.)
+- Programmatically generated content for SEO optimization
+- Responsive design with Tailwind CSS
+- Data visualization for solar panel comparisons
 
 ## Getting Started
 
