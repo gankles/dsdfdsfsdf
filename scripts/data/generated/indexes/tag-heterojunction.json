@@ -1,0 +1,46 @@
+{
+  "title": "Heterojunction Solar Panels",
+  "slug": "heterojunction",
+  "description": "Solar panels tagged as heterojunction.",
+  "products": [
+    "panasonic-evervolt",
+    "rec-alpha"
+  ],
+  "count": 2,
+  "aiContent": {
+    "overview": "Heterojunction Solar Panels (HJT) combine crystalline silicon and thin-film technologies to enhance efficiency and performance. This technology involves layering a thin film of amorphous silicon on the surface of crystalline silicon cells, which reduces recombination losses and improves light absorption, thereby increasing overall energy conversion efficiency.",
+    "benefits": [
+      "Higher efficiency rates compared to traditional solar panels, often exceeding 21%.",
+      "Better performance in low-light conditions and higher temperature tolerance.",
+      "Reduced degradation rates, leading to longer lifespans and reliable energy production."
+    ],
+    "considerations": [
+      "Typically higher initial costs than conventional solar panels.",
+      "Availability may be limited compared to more established solar technologies.",
+      "Installation may require specialized knowledge and skills due to the unique characteristics of HJT panels."
+    ],
+    "trends": "The Heterojunction technology is gaining traction in the solar market due to advancements in manufacturing processes and increasing demand for high-efficiency panels. Future trends indicate ongoing research aimed at further improving efficiency and reducing costs, making HJT panels a more accessible option for residential and commercial applications.",
+    "faqs": [
+      {
+        "question": "What is the efficiency of Heterojunction Solar Panels?",
+        "answer": "Heterojunction Solar Panels typically achieve efficiency rates exceeding 21%, with some models reaching up to 24%."
+      },
+      {
+        "question": "How do HJT panels perform in low-light conditions?",
+        "answer": "HJT panels perform exceptionally well in low-light conditions, making them ideal for areas with less sunlight."
+      },
+      {
+        "question": "What are some example products of Heterojunction Solar Panels?",
+        "answer": "Notable products include the Panasonic EverVolt, which offers 21% efficiency and 370 watts output, and the REC Alpha, which provides 21% efficiency and 380 watts output."
+      },
+      {
+        "question": "Are HJT panels more expensive than traditional solar panels?",
+        "answer": "Yes, Heterojunction Solar Panels generally have a higher upfront cost compared to traditional solar panels, but they can provide better long-term value due to their efficiency and durability."
+      },
+      {
+        "question": "What is the typical lifespan of Heterojunction Solar Panels?",
+        "answer": "HJT panels typically have a lifespan of 25 years or more, with lower degradation rates compared to conventional panels."
+      }
+    ]
+  }
+}

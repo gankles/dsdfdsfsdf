@@ -1,0 +1,45 @@
+{
+  "title": "Mid-range Solar Panels",
+  "slug": "mid-range",
+  "description": "Solar panels tagged as mid-range.",
+  "products": [
+    "q-cells-q-peak-duo"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Mid-range solar panels offer a balanced combination of efficiency, price, and performance, making them a popular choice for homeowners and businesses looking to invest in solar energy without breaking the bank. Typically featuring monocrystalline or polycrystalline technologies, these panels provide good performance in various conditions and are suitable for a wide range of applications.",
+    "benefits": [
+      "Affordable pricing compared to premium solar panels, making them accessible for a broader audience.",
+      "Reasonable efficiency ratings (usually between 15% to 20%), providing a good power output for residential and commercial installations.",
+      "Availability of various brands and models, allowing consumers to choose based on specific needs and budget."
+    ],
+    "considerations": [
+      "While mid-range panels are cost-effective, they may not have the same longevity and warranty periods as high-end options.",
+      "Efficiency ratings may be lower compared to premium panels, which could require more space for installation to achieve the same energy output.",
+      "Some mid-range panels may have less advanced technology, impacting performance in low-light or shaded conditions."
+    ],
+    "trends": "The mid-range solar panel market is experiencing growth as more consumers seek affordable renewable energy solutions. Innovations in manufacturing processes are leading to improved efficiencies and performance, while increasing competition among manufacturers is helping to drive down prices. Additionally, green energy incentives and financing options are making solar more accessible to everyday consumers.",
+    "faqs": [
+      {
+        "question": "What is the difference between mid-range and premium solar panels?",
+        "answer": "Mid-range solar panels typically offer a good balance of efficiency and cost, while premium panels provide higher efficiency, longer warranties, and advanced technology, often at a higher price."
+      },
+      {
+        "question": "How long do mid-range solar panels last?",
+        "answer": "Most mid-range solar panels have a lifespan of 25 years, although their performance may gradually decrease over time."
+      },
+      {
+        "question": "Are mid-range solar panels worth the investment?",
+        "answer": "Yes, mid-range solar panels can be a worthwhile investment for homeowners and businesses looking for a cost-effective solution that provides reliable energy production."
+      },
+      {
+        "question": "Can mid-range solar panels perform well in low-light conditions?",
+        "answer": "While mid-range panels can perform adequately in low-light conditions, they may not be as effective as premium panels specifically designed for such environments."
+      },
+      {
+        "question": "What is an example of a mid-range solar panel?",
+        "answer": "An example of a mid-range solar panel is the Q CELLS Q.PEAK DUO, which is a monocrystalline panel with a 20% efficiency rating and a 340 watts output."
+      }
+    ]
+  }
+}

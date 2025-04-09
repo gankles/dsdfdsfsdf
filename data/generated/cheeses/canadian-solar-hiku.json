@@ -1,0 +1,81 @@
+{
+  "name": "Canadian Solar HiKu",
+  "slug": "canadian-solar-hiku",
+  "type": "monocrystalline",
+  "manufacturer": "Canadian Solar",
+  "efficiency": 0.2,
+  "power_output": 370,
+  "warranty_years": 25,
+  "price_per_watt": 0.9,
+  "dimensions": {
+    "length": 2108,
+    "width": 1048,
+    "depth": 40
+  },
+  "weight": 24.9,
+  "country": "Canada",
+  "region": "Ontario",
+  "applications": [
+    "residential",
+    "commercial",
+    "utility"
+  ],
+  "features": [
+    "cost-effective",
+    "durable",
+    "high-power"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "High-power solar panel with excellent value for money",
+  "pros": [
+    "good efficiency",
+    "competitive price",
+    "reliable manufacturer",
+    "high power output"
+  ],
+  "cons": [
+    "heavier than some competitors",
+    "moderate aesthetics"
+  ],
+  "tags": [
+    "value",
+    "high-power",
+    "monocrystalline",
+    "utility-scale",
+    "residential",
+    "commercial"
+  ],
+  "aiContent": {
+    "detailed_description": "The Canadian Solar HiKu is a high-performance monocrystalline solar panel designed to deliver exceptional power output and efficiency. With a power output of 370 watts and an efficiency rating of 20%, it provides excellent value for residential, commercial, and utility-scale applications. This panel is built with durable materials ensuring longevity, backed by a 25-year warranty. Its design emphasizes cost-effectiveness while maintaining high performance standards.",
+    "installation_tips": [
+      "Ensure the mounting structure is robust enough to support the panel's weight of 24.9kg.",
+      "Position the panels at an optimal tilt angle to maximize solar exposure throughout the year.",
+      "Use high-quality connectors and wiring to prevent energy loss and ensure safe installation."
+    ],
+    "maintenance_guide": "Regularly inspect the panels for dirt, debris, or snow that may obstruct sunlight. Cleaning with water and a soft cloth can help maintain efficiency. Check electrical connections periodically to ensure they are secure and free from corrosion. Monitor performance with a solar inverter to identify any drops in output.",
+    "performance_factors": [
+      "The angle of installation relative to the sun can significantly affect energy capture.",
+      "Shading from nearby trees or buildings can reduce overall output.",
+      "Temperature can impact efficiency; panels may perform better in cooler conditions."
+    ],
+    "roi_analysis": "The cost per watt for the HiKu panel is $0.9, making it a cost-effective option for solar installations. With an average lifespan of 25 years and increasing electricity rates, homeowners and businesses can expect significant savings on energy bills, leading to a favorable return on investment within 5-7 years, depending on local incentives and energy consumption patterns.",
+    "environmental_impact": "Choosing Canadian Solar HiKu panels contributes to reduced greenhouse gas emissions by harnessing renewable energy. Their production adheres to strict environmental standards, and the panel's durability ensures a long operational life, minimizing waste over time compared to less efficient alternatives.",
+    "comparison_notes": "When compared to similar products in the market, the Canadian Solar HiKu stands out for its high power output and competitive pricing. Although it is slightly heavier than some competitors, its efficiency and durability make it a reliable choice for a variety of applications. Its design may not be as aesthetically pleasing as some other models, but its performance compensates for this drawback.",
+    "ideal_use_cases": [
+      "Residential rooftops requiring high power output in limited space.",
+      "Commercial installations looking for durability and cost-effectiveness.",
+      "Utility-scale solar farms needing reliable and efficient energy generation."
+    ],
+    "additional_tags": [
+      "monocrystalline",
+      "high-efficiency",
+      "cost-effective",
+      "durable",
+      "renewable energy"
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "LG NeON 2",
+  "slug": "lg-neon-2",
+  "type": "monocrystalline",
+  "manufacturer": "LG",
+  "efficiency": 0.21,
+  "power_output": 350,
+  "warranty_years": 25,
+  "price_per_watt": 1.5,
+  "dimensions": {
+    "length": 1686,
+    "width": 1016,
+    "depth": 40
+  },
+  "weight": 17.1,
+  "country": "South Korea",
+  "region": "Seoul",
+  "applications": [
+    "residential",
+    "commercial"
+  ],
+  "features": [
+    "sleek-design",
+    "lightweight",
+    "premium"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "Premium solar panel with excellent aesthetics and performance",
+  "pros": [
+    "excellent efficiency",
+    "sleek design",
+    "strong brand",
+    "lightweight"
+  ],
+  "cons": [
+    "premium price",
+    "moderate power output"
+  ],
+  "tags": [
+    "premium",
+    "lightweight",
+    "monocrystalline",
+    "sleek-design",
+    "residential"
+  ],
+  "aiContent": {
+    "detailed_description": "The LG NeON 2 is a premium solar panel that combines advanced technology with aesthetic appeal. It features monocrystalline cells that offer high efficiency of up to 21%, allowing for superior energy production even in limited space. This panel is designed with a sleek appearance and lightweight construction, making it an attractive option for both residential and commercial applications. The NeON 2 also boasts enhanced durability and performance, backed by a 25-year warranty, ensuring long-term reliability.",
+    "installation_tips": [
+      "Ensure proper orientation and tilt for maximum sun exposure.",
+      "Use high-quality mounting systems to secure the panels effectively.",
+      "Consider shading effects from nearby structures or trees and optimize placement accordingly."
+    ],
+    "maintenance_guide": "To maintain optimal performance of the LG NeON 2 panels, regularly clean the surface to remove dust and debris, especially after rain. Inspect for any physical damage or wear, and ensure that the inverter and wiring are functioning properly. Annual professional inspections are recommended to maintain warranty coverage and performance standards.",
+    "performance_factors": [
+      "Temperature: High temperatures can reduce the efficiency of solar panels.",
+      "Shading: Even partial shading can significantly affect the output of solar panels.",
+      "Orientation: Panels should be oriented towards the sun to maximize energy capture."
+    ],
+    "roi_analysis": "The return on investment for the LG NeON 2 can be calculated by considering the initial cost of installation (approximately $525 per panel), expected energy savings, and available incentives such as tax credits. With an output of 350 watts, the panel can produce significant electricity savings, leading to a payback period that typically ranges from 5 to 7 years, depending on local electricity rates and incentives.",
+    "environmental_impact": "The LG NeON 2 solar panel contributes to reducing carbon footprints by generating clean, renewable energy. Utilizing solar power helps decrease reliance on fossil fuels, leading to lower greenhouse gas emissions. Additionally, LG's commitment to sustainable manufacturing practices ensures that the production of these panels minimizes environmental harm.",
+    "comparison_notes": "Compared to similar products in the market, the LG NeON 2 stands out due to its high efficiency and aesthetic design. While other panels may offer lower prices, the NeON 2 provides a premium experience with superior efficiency and a longer warranty. However, it is important to consider that its price point is higher than average, which may not suit all budget constraints.",
+    "ideal_use_cases": [
+      "Residential rooftops where space is limited and aesthetics are important.",
+      "Commercial buildings aiming for LEED certification or sustainability goals.",
+      "Off-grid applications where maximum efficiency is crucial for energy independence."
+    ],
+    "additional_tags": [
+      "monocrystalline",
+      "high-efficiency",
+      "residential",
+      "commercial",
+      "premium"
+    ]
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Jinko Solar Eagle",
+  "slug": "jinko-solar-eagle",
+  "type": "polycrystalline",
+  "manufacturer": "Jinko Solar",
+  "efficiency": 0.17,
+  "power_output": 330,
+  "warranty_years": 12,
+  "price_per_watt": 0.7,
+  "dimensions": {
+    "length": 1956,
+    "width": 992,
+    "depth": 40
+  },
+  "weight": 22.5,
+  "country": "China",
+  "region": "Shanghai",
+  "applications": [
+    "residential",
+    "commercial",
+    "utility"
+  ],
+  "features": [
+    "budget-friendly",
+    "reliable",
+    "widely-available"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "Affordable polycrystalline panel with good reliability",
+  "pros": [
+    "affordable",
+    "widely available",
+    "good reliability",
+    "decent efficiency"
+  ],
+  "cons": [
+    "shorter warranty",
+    "lower efficiency",
+    "basic aesthetics"
+  ],
+  "tags": [
+    "budget",
+    "polycrystalline",
+    "widely-available",
+    "utility-scale",
+    "residential"
+  ],
+  "aiContent": {
+    "detailed_description": "The Jinko Solar Eagle is an affordable polycrystalline solar panel designed for residential, commercial, and utility applications. It features a power output of 330 watts and an efficiency rating of 17%, making it a reliable choice for various installation needs. This panel combines budget-friendly pricing with dependable performance, making it a popular option in the solar market. With dimensions of 1956mm x 992mm x 40mm and a weight of 22.5kg, it is suitable for diverse installation environments. The Jinko Solar Eagle is also certified by UL, IEC, and CEC, ensuring its compliance with industry standards.",
+    "installation_tips": [
+      "Ensure the installation area receives maximum sunlight exposure throughout the day.",
+      "Use appropriate mounting systems to secure the panels and ensure proper ventilation.",
+      "Consult with a professional installer to assess the structural integrity of the installation surface."
+    ],
+    "maintenance_guide": "To maintain the Jinko Solar Eagle panel for optimal performance, regularly clean the surface to remove dirt, debris, and snow. Inspect the connections and wiring periodically for any signs of wear or damage. Schedule a professional inspection at least once a year to ensure the system is functioning efficiently.",
+    "performance_factors": [
+      "Angle and orientation of the solar panel installation affect sunlight exposure.",
+      "Temperature variations can impact panel efficiency; cooler temperatures generally enhance performance.",
+      "Shading from nearby objects can significantly reduce energy output."
+    ],
+    "roi_analysis": "The return on investment for the Jinko Solar Eagle can be favorable due to its low price per watt of $0.7. With an average energy savings of 15-20% on electricity bills, and considering local incentives and rebates, homeowners can expect a payback period of around 5-7 years, depending on energy consumption and local solar policies.",
+    "environmental_impact": "The Jinko Solar Eagle contributes to reducing carbon emissions by harnessing renewable energy. By transitioning to solar, users help mitigate the effects of climate change and decrease reliance on fossil fuels, promoting a cleaner environment.",
+    "comparison_notes": "Compared to similar products in the market, the Jinko Solar Eagle offers a competitive price point and decent efficiency. However, it falls short with a shorter warranty of 12 years and lower efficiency compared to premium models. Its basic aesthetics may not appeal to all customers, but its reliability and affordability make it a strong contender in its category.",
+    "ideal_use_cases": [
+      "Residential rooftop installations for homeowners seeking affordable energy solutions.",
+      "Small commercial projects requiring budget-friendly solar options.",
+      "Utility-scale solar farms looking to maximize output with cost-effective panels."
+    ],
+    "additional_tags": [
+      "polycrystalline",
+      "affordable",
+      "Jinko Solar",
+      "reliable",
+      "residential"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Cadmium-telluride Solar Panels",
+  "slug": "cadmium-telluride",
+  "description": "Solar panels tagged as cadmium-telluride.",
+  "products": [
+    "first-solar-series-6"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Cadmium-telluride (CdTe) solar panels are a type of thin-film solar technology that utilizes cadmium and tellurium to create a photovoltaic layer. These panels are known for their lower manufacturing costs compared to traditional silicon-based solar panels and are increasingly used in large-scale solar farms due to their efficiency in converting sunlight into electricity, especially in low-light conditions.",
+    "benefits": [
+      "Lower manufacturing costs compared to crystalline silicon panels, making them more affordable for large-scale installations.",
+      "Better performance in high temperatures and partial shading, which can lead to higher energy yields in certain environments.",
+      "Lightweight and flexible, allowing for easier installation and integration into various surfaces, including building-integrated photovoltaic (BIPV) systems."
+    ],
+    "considerations": [
+      "Cadmium-telluride panels contain cadmium, a toxic heavy metal, raising environmental concerns regarding their disposal and recycling.",
+      "Typically, CdTe panels have a lower efficiency rate (around 18%) compared to monocrystalline silicon panels (up to 22% or more), which may require more space for installation to achieve the same energy output.",
+      "The longevity and performance degradation rates can vary, and potential buyers should consider warranties and long-term performance guarantees when choosing these panels."
+    ],
+    "trends": "The market for cadmium-telluride solar panels is growing, especially in utility-scale applications. Advances in manufacturing processes continue to improve efficiency and reduce costs. Additionally, recycling technologies for CdTe panels are being developed to address environmental concerns, making them more sustainable in the long run.",
+    "faqs": [
+      {
+        "question": "What is the efficiency of cadmium-telluride solar panels?",
+        "answer": "Cadmium-telluride solar panels typically have an efficiency of around 18%, which is lower than that of many crystalline silicon panels."
+      },
+      {
+        "question": "Are cadmium-telluride solar panels safe for the environment?",
+        "answer": "While CdTe panels contain cadmium, which is toxic, advancements in recycling technologies and regulations help mitigate environmental risks associated with their disposal."
+      },
+      {
+        "question": "How do cadmium-telluride panels perform in low-light conditions?",
+        "answer": "CdTe panels generally perform well in low-light conditions, making them suitable for cloudy climates and shaded areas."
+      },
+      {
+        "question": "What are the main applications for cadmium-telluride solar panels?",
+        "answer": "These panels are primarily used in large-scale utility installations and solar farms, but they can also be integrated into building designs."
+      },
+      {
+        "question": "How do cadmium-telluride panels compare to other types of solar panels?",
+        "answer": "Compared to other types, CdTe panels are usually less expensive to manufacture and install but may offer lower efficiency and require more space for the same energy output."
+      }
+    ]
+  }
+}

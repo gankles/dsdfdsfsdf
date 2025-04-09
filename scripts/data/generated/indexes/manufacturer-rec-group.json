@@ -1,0 +1,45 @@
+{
+  "title": "REC Group Solar Panels",
+  "slug": "rec-group",
+  "description": "Solar panels manufactured by REC Group.",
+  "products": [
+    "rec-alpha"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "REC Group is a leading manufacturer of solar panels, known for their commitment to quality and innovation. Their products are designed to deliver high efficiency and reliability while maintaining a sustainable production process. The REC Alpha series, for example, offers advanced technology in a compact design, making it suitable for various applications, from residential to commercial installations.",
+    "benefits": [
+      "High efficiency ratings, with some models like the REC Alpha reaching up to 21% efficiency.",
+      "Durability and reliability, backed by extensive testing and a strong warranty program.",
+      "Sustainable production practices, with a focus on reducing environmental impact throughout the manufacturing process."
+    ],
+    "considerations": [
+      "Cost relative to other brands; while REC panels may be pricier, their long-term performance can justify the investment.",
+      "Installation requirements; ensure compatibility with existing systems and local regulations.",
+      "Availability of local support and service options; check for warranty and service agreements in your area."
+    ],
+    "trends": "REC Group is at the forefront of innovation in solar technology, contributing to trends such as enhanced energy density and integration of smart technology in solar systems. The future outlook is positive, with increasing demand for sustainable energy solutions and advancements in solar efficiency expected to propel REC's growth in the coming years.",
+    "faqs": [
+      {
+        "question": "What is the efficiency of REC solar panels?",
+        "answer": "REC solar panels, particularly the REC Alpha series, have efficiencies of up to 21%, making them among the highest in the market."
+      },
+      {
+        "question": "What warranty does REC Group offer on their solar panels?",
+        "answer": "REC Group typically offers a 25-year product and performance warranty on their solar panels, ensuring longevity and reliability."
+      },
+      {
+        "question": "Are REC solar panels suitable for residential use?",
+        "answer": "Yes, REC solar panels are designed for both residential and commercial applications, providing flexibility for various installation needs."
+      },
+      {
+        "question": "How do REC solar panels perform in low-light conditions?",
+        "answer": "REC panels are engineered to perform well in low-light conditions, making them effective for locations with less direct sunlight."
+      },
+      {
+        "question": "Where are REC solar panels manufactured?",
+        "answer": "REC Group has manufacturing facilities in various locations, including Singapore, and emphasizes sustainable production practices."
+      }
+    ]
+  }
+}

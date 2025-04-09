@@ -1,0 +1,46 @@
+{
+  "title": "Widely-available Solar Panels",
+  "slug": "widely-available",
+  "description": "Solar panels tagged as widely-available.",
+  "products": [
+    "jinko-solar-eagle",
+    "longi-solar-hi-mo-4"
+  ],
+  "count": 2,
+  "aiContent": {
+    "overview": "Widely-available solar panels are popular choices for residential and commercial applications due to their accessibility, varying price points, and reliable performance. They encompass both monocrystalline and polycrystalline technologies, making them suitable for a wide range of energy needs and budget considerations.",
+    "benefits": [
+      "Broad availability from multiple manufacturers ensures competitive pricing.",
+      "A variety of panel types (monocrystalline and polycrystalline) caters to different energy requirements.",
+      "Established technology with proven performance and longevity."
+    ],
+    "considerations": [
+      "Evaluating efficiency ratings is crucial to determine the best fit for energy needs.",
+      "Understanding the warranty and lifespan of the panels can impact long-term investment.",
+      "Consider the available space for installation, as different panels have varying space requirements."
+    ],
+    "trends": "The market is witnessing a shift towards higher efficiency panels, with many manufacturers focusing on enhancing the performance of both monocrystalline and polycrystalline panels. Additionally, sustainability practices in manufacturing and recycling are becoming increasingly important in consumer choices.",
+    "faqs": [
+      {
+        "question": "What is the difference between monocrystalline and polycrystalline panels?",
+        "answer": "Monocrystalline panels are made from a single crystal structure, offering higher efficiency and a smaller footprint, while polycrystalline panels are made from multiple crystal structures, typically providing a lower cost but also slightly lower efficiency."
+      },
+      {
+        "question": "How do I choose the right solar panel for my home?",
+        "answer": "Consider factors such as your energy consumption, available installation space, budget, and whether you prefer higher efficiency or lower cost options."
+      },
+      {
+        "question": "What is the average lifespan of widely-available solar panels?",
+        "answer": "Most widely-available solar panels have a lifespan of 25 to 30 years, with many manufacturers offering warranties that reflect this duration."
+      },
+      {
+        "question": "Are widely-available solar panels suitable for all climates?",
+        "answer": "Yes, widely-available solar panels can perform well in various climates, though their efficiency may be affected by extreme temperatures, shading, or environmental factors."
+      },
+      {
+        "question": "What are some example products in the widely-available category?",
+        "answer": "Examples include the Jinko Solar Eagle, a polycrystalline panel with 17% efficiency and 330 watts output, and the LONGi Solar Hi-MO 4, a monocrystalline panel with 20% efficiency and 370 watts output."
+      }
+    ]
+  }
+}

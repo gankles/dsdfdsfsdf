@@ -1,0 +1,45 @@
+{
+  "title": "Standard Efficiency Solar Panels",
+  "slug": "standard-efficiency",
+  "description": "Solar panels with efficiency ratings 15.0% to 18.0%.",
+  "products": [
+    "jinko-solar-eagle"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Standard Efficiency Solar Panels are solar modules that typically feature efficiency ratings ranging from 15.0% to 18.0%. These panels are designed for residential and commercial applications, providing a balance between cost, performance, and energy production. They are suitable for various installations, particularly where space is not a constraint.",
+    "benefits": [
+      "More affordable than high-efficiency panels, making them a cost-effective option for many buyers.",
+      "Widely available and compatible with standard solar installations, ensuring easy integration.",
+      "Sufficient energy output for average household needs, particularly in areas with ample sunlight."
+    ],
+    "considerations": [
+      "Lower efficiency compared to high-efficiency panels may require more space for installation to produce the same amount of energy.",
+      "Performance can be affected by shading and orientation, so careful site assessment is necessary.",
+      "Long-term energy savings may be lower compared to higher-efficiency panels, impacting return on investment."
+    ],
+    "trends": "The market for Standard Efficiency Solar Panels is evolving with innovations in materials and manufacturing processes, leading to improved performance and reliability. While high-efficiency panels are gaining popularity, Standard Efficiency panels remain a solid choice due to their affordability. As solar technology advances, we expect a gradual increase in the efficiency of these panels as well.",
+    "faqs": [
+      {
+        "question": "What is the efficiency range of Standard Efficiency Solar Panels?",
+        "answer": "Standard Efficiency Solar Panels typically have efficiency ratings between 15.0% to 18.0%."
+      },
+      {
+        "question": "How do Standard Efficiency Panels compare to high-efficiency panels?",
+        "answer": "Standard Efficiency Panels are generally more affordable but require more space to produce the same amount of energy as high-efficiency panels."
+      },
+      {
+        "question": "What is an example of a Standard Efficiency Solar Panel?",
+        "answer": "An example is the Jinko Solar Eagle, which is a polycrystalline panel with a 17% efficiency rating and a power output of 330 watts."
+      },
+      {
+        "question": "Are Standard Efficiency Solar Panels suitable for my home?",
+        "answer": "Yes, they are suitable for residential applications, particularly in areas with sufficient roof space and sunlight."
+      },
+      {
+        "question": "How do I maintain Standard Efficiency Solar Panels?",
+        "answer": "Regular cleaning and inspections are recommended to ensure optimal performance, along with monitoring their energy output."
+      }
+    ]
+  }
+}

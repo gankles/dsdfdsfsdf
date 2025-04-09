@@ -1,0 +1,45 @@
+{
+  "title": "Mid-range Solar Panels",
+  "slug": "mid-range",
+  "description": "Solar panels tagged as mid-range.",
+  "products": [
+    "q-cells-q-peak-duo"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Mid-range solar panels offer a balance between cost and efficiency, making them an attractive option for homeowners and businesses looking to invest in solar energy without breaking the bank. These panels typically feature good performance metrics and reasonable warranties, making them suitable for a wide range of applications.",
+    "benefits": [
+      "Affordable pricing compared to premium models while still offering solid performance.",
+      "Generally provide a good balance of efficiency and power output, making them suitable for various installations.",
+      "Often come with decent warranties, typically ranging from 10 to 25 years, ensuring long-term reliability."
+    ],
+    "considerations": [
+      "Evaluate the efficiency ratings, as mid-range panels may not perform as well as high-end options, particularly in low-light conditions.",
+      "Consider the installation space available, as some mid-range panels may require more units to meet energy needs compared to higher-efficiency models.",
+      "Check the warranty terms and manufacturer reputation to ensure you are investing in a reliable product."
+    ],
+    "trends": "The market for mid-range solar panels is growing as more consumers seek affordable renewable energy solutions. There is a trend towards improved efficiency and performance metrics within this category, driven by technological advancements. Additionally, as solar technology continues to evolve, mid-range panels are likely to offer better value and become increasingly competitive with higher-end models.",
+    "faqs": [
+      {
+        "question": "What is the typical efficiency of mid-range solar panels?",
+        "answer": "Mid-range solar panels typically have efficiencies ranging from 15% to 20%, providing a good balance of power output and cost."
+      },
+      {
+        "question": "How long do mid-range solar panels last?",
+        "answer": "Most mid-range solar panels come with warranties that last between 10 to 25 years, and they can often last beyond that with proper maintenance."
+      },
+      {
+        "question": "Are mid-range solar panels suitable for all climates?",
+        "answer": "Yes, mid-range solar panels can perform well in various climates, but their efficiency may vary based on local weather conditions, such as temperature and sunlight availability."
+      },
+      {
+        "question": "What is an example of a mid-range solar panel?",
+        "answer": "An example of a mid-range solar panel is the Q CELLS Q.PEAK DUO, which is a monocrystalline panel with 20% efficiency and a power output of 340 watts."
+      },
+      {
+        "question": "How do mid-range solar panels compare to premium models?",
+        "answer": "Mid-range solar panels generally offer lower efficiencies and slightly reduced durability compared to premium models, but they are more cost-effective and still provide reliable performance for most residential and commercial applications."
+      }
+    ]
+  }
+}

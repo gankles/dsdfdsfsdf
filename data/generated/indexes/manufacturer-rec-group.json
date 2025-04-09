@@ -1,0 +1,45 @@
+{
+  "title": "REC Group Solar Panels",
+  "slug": "rec-group",
+  "description": "Solar panels manufactured by REC Group.",
+  "products": [
+    "rec-alpha"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "REC Group is a leading manufacturer of solar panels, renowned for their commitment to quality and innovation. Their panels are designed to deliver high efficiency and durability, making them suitable for a wide range of applications, from residential to commercial installations. The REC Alpha series, featuring advanced technology and superior performance, exemplifies their product offerings.",
+    "benefits": [
+      "High efficiency rates, with models like the REC Alpha achieving up to 21% efficiency.",
+      "Robust durability and long lifespan, backed by a 25-year product warranty.",
+      "Environmentally friendly manufacturing processes, including a focus on reducing carbon footprint."
+    ],
+    "considerations": [
+      "Initial cost may be higher compared to some other brands, but the long-term savings can offset this.",
+      "Installation might require certified professionals to ensure optimal performance.",
+      "Limited availability in certain regions, which could affect accessibility and support."
+    ],
+    "trends": "The solar market is seeing increasing demand for high-efficiency panels like those from REC Group as consumers become more aware of energy efficiency and sustainability. Innovations in solar technology, including better materials and manufacturing techniques, are expected to enhance the performance of REC panels further in the future.",
+    "faqs": [
+      {
+        "question": "What is the efficiency rating of REC Group solar panels?",
+        "answer": "The efficiency rating of REC Group solar panels varies by model, with the REC Alpha series achieving up to 21% efficiency."
+      },
+      {
+        "question": "What is the warranty period for REC solar panels?",
+        "answer": "REC Group offers a standard 25-year product warranty on their solar panels, ensuring long-term reliability."
+      },
+      {
+        "question": "Are REC solar panels environmentally friendly?",
+        "answer": "Yes, REC Group emphasizes sustainable manufacturing practices and aims to minimize the environmental impact of their products."
+      },
+      {
+        "question": "How do REC solar panels compare to other brands?",
+        "answer": "REC solar panels are known for their high efficiency and durability, often competing well with other premium brands in terms of performance and warranty."
+      },
+      {
+        "question": "Where can I purchase REC solar panels?",
+        "answer": "REC solar panels can be purchased through authorized distributors and installers in various regions. It's advisable to check REC's official website for local availability."
+      }
+    ]
+  }
+}

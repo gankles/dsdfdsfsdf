@@ -1,0 +1,45 @@
+{
+  "title": "Polycrystalline Solar Panels",
+  "slug": "polycrystalline",
+  "description": "Solar panels using polycrystalline technology.",
+  "products": [
+    "jinko-solar-eagle"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Polycrystalline solar panels are made from multiple silicon crystals melted together. They are known for their characteristic blue hue and are one of the most common types of solar panels available on the market. These panels are typically less expensive to produce than monocrystalline panels, making them a popular choice for residential and commercial applications.",
+    "benefits": [
+      "Lower manufacturing costs compared to monocrystalline panels, making them more affordable for consumers.",
+      "Good performance in high temperatures, which can lead to better efficiency in sunny climates.",
+      "Environmentally friendly production process as they require less energy to produce than monocrystalline panels."
+    ],
+    "considerations": [
+      "Slightly lower efficiency ratings compared to monocrystalline solar panels, usually ranging between 15% to 20%.",
+      "Larger physical size required for the same power output, which may not be suitable for smaller roofs.",
+      "Performance may be affected by shading, as multiple crystals can lead to reduced energy output if part of the panel is shaded."
+    ],
+    "trends": "The market for polycrystalline solar panels is experiencing steady growth. As technology improves, manufacturers are increasing the efficiency of these panels, making them more competitive with monocrystalline options. Additionally, as global demand for renewable energy rises, polycrystalline panels are becoming more popular due to their cost-effectiveness.",
+    "faqs": [
+      {
+        "question": "What is the efficiency of polycrystalline solar panels?",
+        "answer": "The efficiency of polycrystalline solar panels typically ranges from 15% to 20%, which is slightly lower than that of monocrystalline panels."
+      },
+      {
+        "question": "Are polycrystalline solar panels more affordable than monocrystalline panels?",
+        "answer": "Yes, polycrystalline solar panels are generally less expensive to manufacture and purchase compared to monocrystalline panels."
+      },
+      {
+        "question": "How do polycrystalline panels perform in high temperatures?",
+        "answer": "Polycrystalline panels tend to perform well in high temperatures and can maintain better efficiency compared to monocrystalline panels under these conditions."
+      },
+      {
+        "question": "What is an example of a polycrystalline solar panel?",
+        "answer": "An example of a polycrystalline solar panel is the Jinko Solar Eagle, which has a 17% efficiency rating and an output of 330 watts."
+      },
+      {
+        "question": "Can polycrystalline panels be installed on small roofs?",
+        "answer": "Due to their larger physical size for the same power output, polycrystalline panels may not be the best option for small roofs where space is limited."
+      }
+    ]
+  }
+}

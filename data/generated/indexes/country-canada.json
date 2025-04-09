@@ -1,0 +1,45 @@
+{
+  "title": "Solar Panels from Canada",
+  "slug": "canada",
+  "description": "Solar panels manufactured in Canada.",
+  "products": [
+    "canadian-solar-hiku"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Solar panels from Canada are known for their high quality, efficiency, and durability, often designed to withstand the country's diverse climate conditions. Canadian manufacturers leverage advanced technologies to produce solar panels with competitive performance and sustainability standards.",
+    "benefits": [
+      "High efficiency and power output, with many panels exceeding 20% efficiency.",
+      "Designed to withstand harsh weather conditions, ensuring longevity and reliability.",
+      "Manufactured locally, which can reduce shipping costs and carbon footprint."
+    ],
+    "considerations": [
+      "Availability of specific models and their compatibility with existing systems.",
+      "Potential higher upfront costs compared to some imported panels, though often offset by local incentives.",
+      "Assessing warranties and service options provided by Canadian manufacturers."
+    ],
+    "trends": "The Canadian solar panel market is experiencing growth driven by government incentives and increasing public awareness of renewable energy. Innovations in technology are leading to greater efficiency and lower costs. Future trends may include advancements in energy storage solutions and integration with smart home technologies.",
+    "faqs": [
+      {
+        "question": "What is the efficiency of Canadian solar panels?",
+        "answer": "Many Canadian solar panels, such as the Canadian Solar HiKu, offer efficiencies around 20% or higher."
+      },
+      {
+        "question": "Are Canadian solar panels suitable for cold climates?",
+        "answer": "Yes, Canadian solar panels are specifically designed to perform well in cold climates and can handle snow loads effectively."
+      },
+      {
+        "question": "What is the lifespan of Canadian solar panels?",
+        "answer": "Typically, Canadian solar panels come with warranties of 25 years, indicating a lifespan that can exceed 25 years with proper maintenance."
+      },
+      {
+        "question": "Do Canadian solar panels require special installation?",
+        "answer": "Installation requirements are generally similar to those of other solar panels, but it's recommended to use qualified installers familiar with local regulations."
+      },
+      {
+        "question": "Are there incentives available for installing Canadian solar panels?",
+        "answer": "Yes, various federal and provincial incentives may be available to encourage the installation of solar panels, including tax credits and rebates."
+      }
+    ]
+  }
+}

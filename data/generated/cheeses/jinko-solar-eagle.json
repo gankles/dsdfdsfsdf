@@ -1,0 +1,81 @@
+{
+  "name": "Jinko Solar Eagle",
+  "slug": "jinko-solar-eagle",
+  "type": "polycrystalline",
+  "manufacturer": "Jinko Solar",
+  "efficiency": 0.17,
+  "power_output": 330,
+  "warranty_years": 12,
+  "price_per_watt": 0.7,
+  "dimensions": {
+    "length": 1956,
+    "width": 992,
+    "depth": 40
+  },
+  "weight": 22.5,
+  "country": "China",
+  "region": "Shanghai",
+  "applications": [
+    "residential",
+    "commercial",
+    "utility"
+  ],
+  "features": [
+    "budget-friendly",
+    "reliable",
+    "widely-available"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "Affordable polycrystalline panel with good reliability",
+  "pros": [
+    "affordable",
+    "widely available",
+    "good reliability",
+    "decent efficiency"
+  ],
+  "cons": [
+    "shorter warranty",
+    "lower efficiency",
+    "basic aesthetics"
+  ],
+  "tags": [
+    "budget",
+    "polycrystalline",
+    "widely-available",
+    "utility-scale",
+    "residential"
+  ],
+  "aiContent": {
+    "detailed_description": "The Jinko Solar Eagle is an affordable polycrystalline solar panel designed for a range of applications, including residential, commercial, and utility-scale projects. With an efficiency of 17% and a power output of 330 watts, it strikes a balance between cost and performance. The panel's robust construction ensures reliability, making it a popular choice among consumers. Despite its basic aesthetics, the Jinko Solar Eagle is recognized for its durability and efficiency in various environmental conditions.",
+    "installation_tips": [
+      "Ensure the mounting structure is robust enough to support the weight of the panel (22.5kg).",
+      "Position the panels to maximize sunlight exposure, ideally facing south in the northern hemisphere.",
+      "Consult local regulations for installation permits and guidelines to ensure compliance."
+    ],
+    "maintenance_guide": "To maintain optimal performance, periodically clean the panels to remove dust and debris, especially in dusty environments. Inspect the wiring and connections for any signs of wear or corrosion, and ensure that the panels are free from shading obstructions such as trees or buildings.",
+    "performance_factors": [
+      "Temperature: Higher temperatures can reduce panel efficiency, consider cooling solutions if installed in hot climates.",
+      "Angle of Installation: The angle at which the panel is installed can significantly impact energy capture.",
+      "Shading: Even partial shading can lead to significant drops in power output, so ensure clear access to sunlight."
+    ],
+    "roi_analysis": "With a price of $0.7 per watt, the Jinko Solar Eagle offers a cost-effective solution for solar energy generation. In regions with sufficient sunlight, homeowners can expect to recoup their investment in 5 to 7 years, depending on local electricity prices and incentives. Its affordable price and decent efficiency make it an appealing option for budget-conscious consumers.",
+    "environmental_impact": "The Jinko Solar Eagle contributes to reducing carbon emissions by providing a renewable energy source. Its production is certified under UL, IEC, and CEC standards, ensuring that it meets environmental regulations. By choosing this panel, users support the transition towards sustainable energy solutions.",
+    "comparison_notes": "Compared to other similar products on the market, the Jinko Solar Eagle stands out for its affordability and wide availability. However, it does have a shorter warranty period (12 years) and lower efficiency compared to higher-end panels, making it a better fit for consumers prioritizing cost over cutting-edge performance.",
+    "ideal_use_cases": [
+      "Residential rooftop installations seeking budget-friendly solar solutions.",
+      "Small commercial buildings aiming for cost-effective energy generation.",
+      "Utility-scale projects that require reliable panels at a lower upfront cost."
+    ],
+    "additional_tags": [
+      "polycrystalline",
+      "Jinko Solar",
+      "solar panel",
+      "affordable",
+      "reliable"
+    ]
+  }
+}

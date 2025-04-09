@@ -1,0 +1,45 @@
+{
+  "title": "LONGi Solar Solar Panels",
+  "slug": "longi-solar",
+  "description": "Solar panels manufactured by LONGi Solar.",
+  "products": [
+    "longi-solar-hi-mo-4"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "LONGi Solar is a leading manufacturer of high-efficiency monocrystalline solar panels, known for their advanced technology and commitment to sustainability. Their solar panels are designed for residential, commercial, and utility-scale applications, providing reliable energy solutions with high performance.",
+    "benefits": [
+      "High efficiency rates, typically around 20%, maximizing energy output.",
+      "Durability and long lifespan, often backed by a 25-year warranty.",
+      "Strong performance in low-light conditions, ensuring energy generation even in less-than-ideal weather."
+    ],
+    "considerations": [
+      "Higher upfront costs compared to some polycrystalline options, though often offset by long-term savings.",
+      "Installation requirements may vary based on the specific project needs and local regulations.",
+      "Availability may vary by region, affecting access to their latest models."
+    ],
+    "trends": "The trend towards increasing efficiency and sustainability in solar technology is evident in LONGi's ongoing innovation. The company is focused on developing next-generation products, including bifacial solar panels and advancements in cell technology, which are expected to dominate the market in the coming years.",
+    "faqs": [
+      {
+        "question": "What is the efficiency of LONGi Solar panels?",
+        "answer": "LONGi Solar panels typically achieve efficiency rates around 20%, depending on the specific model."
+      },
+      {
+        "question": "What are the warranty terms for LONGi Solar panels?",
+        "answer": "LONGi Solar offers a 25-year warranty on their panels, covering both performance and product defects."
+      },
+      {
+        "question": "How do LONGi Solar panels perform in low-light conditions?",
+        "answer": "LONGi panels are designed to perform effectively in low-light conditions, making them suitable for various climates."
+      },
+      {
+        "question": "Are LONGi Solar panels suitable for residential installations?",
+        "answer": "Yes, LONGi Solar panels are well-suited for residential installations, providing high efficiency and reliable energy output."
+      },
+      {
+        "question": "What is an example product from LONGi Solar?",
+        "answer": "An example product is the LONGi Solar Hi-MO 4, a monocrystalline panel with 20% efficiency and 370 watts output."
+      }
+    ]
+  }
+}

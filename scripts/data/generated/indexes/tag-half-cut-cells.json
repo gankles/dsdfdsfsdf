@@ -1,0 +1,46 @@
+{
+  "title": "Half-cut-cells Solar Panels",
+  "slug": "half-cut-cells",
+  "description": "Solar panels tagged as half-cut-cells.",
+  "products": [
+    "rec-alpha",
+    "q-cells-q-peak-duo"
+  ],
+  "count": 2,
+  "aiContent": {
+    "overview": "Half-cut-cells solar panels are a type of photovoltaic technology that employs a unique design where traditional solar cells are cut in half. This innovation allows for better performance and efficiency, especially in less-than-ideal conditions. By reducing the amount of current flowing through each cell, half-cut cells minimize losses due to shading and improve overall energy output.",
+    "benefits": [
+      "Higher efficiency compared to traditional full-cell panels due to reduced resistive losses.",
+      "Improved performance in partial shading conditions, enhancing energy production.",
+      "Lower temperature coefficient, resulting in better performance at elevated temperatures."
+    ],
+    "considerations": [
+      "Higher initial cost compared to standard solar panels, though savings may be realized over time.",
+      "Installation requires careful handling to avoid damage to the half-cut cells.",
+      "Compatibility with existing systems should be verified, as half-cut cells can have different electrical characteristics."
+    ],
+    "trends": "The market for half-cut-cell solar panels is growing, driven by advancements in solar technology and increasing consumer demand for more efficient energy solutions. Manufacturers are continuously innovating to enhance efficiency ratings and reduce costs. Future developments may include integration with energy storage solutions and smart technologies to optimize energy usage.",
+    "faqs": [
+      {
+        "question": "What are half-cut-cells solar panels?",
+        "answer": "Half-cut-cells solar panels are made by cutting standard solar cells in half, which reduces electrical losses and improves performance."
+      },
+      {
+        "question": "What is the efficiency of half-cut-cells solar panels?",
+        "answer": "The efficiency can vary, with some half-cut-cells panels achieving efficiencies over 21%, such as the REC Alpha panel."
+      },
+      {
+        "question": "How do half-cut-cells perform in low-light conditions?",
+        "answer": "Half-cut-cells are known to perform better in low-light and shaded conditions compared to traditional full-cell panels."
+      },
+      {
+        "question": "Are half-cut-cells solar panels more expensive?",
+        "answer": "Yes, they typically have a higher upfront cost due to the advanced technology, but they can offer greater savings in the long run through increased energy production."
+      },
+      {
+        "question": "Can half-cut-cells solar panels be installed on existing systems?",
+        "answer": "Yes, but it is essential to ensure compatibility with the existing solar system's inverter and configuration."
+      }
+    ]
+  }
+}

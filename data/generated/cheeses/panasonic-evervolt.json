@@ -1,0 +1,79 @@
+{
+  "name": "Panasonic EverVolt",
+  "slug": "panasonic-evervolt",
+  "type": "monocrystalline",
+  "manufacturer": "Panasonic",
+  "efficiency": 0.21,
+  "power_output": 370,
+  "warranty_years": 25,
+  "price_per_watt": 1.3,
+  "dimensions": {
+    "length": 1765,
+    "width": 1048,
+    "depth": 35
+  },
+  "weight": 19.5,
+  "country": "Japan",
+  "region": "Osaka",
+  "applications": [
+    "residential",
+    "commercial"
+  ],
+  "features": [
+    "heterojunction-technology",
+    "low-degradation",
+    "premium"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "Premium heterojunction panel with excellent low-light performance",
+  "pros": [
+    "excellent temperature coefficient",
+    "low degradation rate",
+    "good warranty",
+    "premium brand"
+  ],
+  "cons": [
+    "premium price",
+    "moderate availability"
+  ],
+  "tags": [
+    "premium",
+    "heterojunction",
+    "monocrystalline",
+    "low-degradation",
+    "residential"
+  ],
+  "aiContent": {
+    "detailed_description": "The Panasonic EverVolt solar panel is a premium monocrystalline solar module featuring advanced heterojunction technology (HJT). It boasts an impressive efficiency of 21%, enabling it to produce 370 watts of power output. This technology combines the advantages of both crystalline and thin-film solar cells, resulting in excellent performance even in low-light conditions. With a robust 25-year warranty, the EverVolt is engineered for long-lasting durability and reliability, making it a top choice for both residential and commercial applications.",
+    "installation_tips": [
+      "Ensure optimal angle and orientation for maximum sun exposure.",
+      "Use proper mounting systems to secure panels against environmental factors.",
+      "Consider local regulations and permits prior to installation."
+    ],
+    "maintenance_guide": "To maintain the performance of your Panasonic EverVolt panels, regularly clean the surface to remove dust and debris, especially in dusty environments. Inspect the panels periodically for any signs of damage or wear. Additionally, monitor the output of the system to detect any performance drops that could indicate maintenance needs.",
+    "performance_factors": [
+      "Ambient temperature and weather conditions can affect panel efficiency.",
+      "The angle of installation impacts the amount of sunlight received.",
+      "Shading from nearby structures or trees can significantly reduce output."
+    ],
+    "roi_analysis": "The return on investment (ROI) for the Panasonic EverVolt solar panel is favorable given its high efficiency and performance. With a price of $1.3 per watt, the initial investment can be recouped through electricity savings over time, especially in areas with high electricity rates. State and federal incentives can further enhance the ROI, making it an attractive option for homeowners and businesses alike.",
+    "environmental_impact": "The Panasonic EverVolt contributes to reducing carbon footprints by harnessing solar energy, a clean and renewable energy source. The use of advanced technology minimizes energy loss and maximizes output, making it an environmentally friendly choice for reducing reliance on fossil fuels.",
+    "comparison_notes": "Compared to similar products, the Panasonic EverVolt stands out due to its high efficiency and low degradation rates. While it comes at a premium price, the long-term benefits and warranty offer peace of mind. Other brands may offer lower initial costs, but may not match the EverVolt's durability and performance in challenging conditions.",
+    "ideal_use_cases": [
+      "Residential solar installations where space is limited and high efficiency is required.",
+      "Commercial projects that demand reliable energy generation and long-term performance.",
+      "Off-grid applications where maximizing energy output is critical."
+    ],
+    "additional_tags": [
+      "monocrystalline",
+      "heterojunction",
+      "high efficiency",
+      "durability",
+      "premium"
+    ]
+  }
+}

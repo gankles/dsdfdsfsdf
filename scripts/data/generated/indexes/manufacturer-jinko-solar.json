@@ -1,0 +1,45 @@
+{
+  "title": "Jinko Solar Solar Panels",
+  "slug": "jinko-solar",
+  "description": "Solar panels manufactured by Jinko Solar.",
+  "products": [
+    "jinko-solar-eagle"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Jinko Solar is one of the largest and most recognized manufacturers of solar panels globally. Their panels are known for their high efficiency, reliability, and durability. Jinko Solar panels come in various technologies, including monocrystalline and polycrystalline options, catering to diverse energy needs and installation environments.",
+    "benefits": [
+      "High efficiency rates, with some models exceeding 22%, allowing for more energy generation in limited space.",
+      "Robust build quality and durability, ensuring long lifespan and performance even in harsh environmental conditions.",
+      "Wide range of products available, including options for residential, commercial, and utility-scale installations."
+    ],
+    "considerations": [
+      "Evaluate the specific energy needs and installation conditions to choose the right model and technology (monocrystalline vs. polycrystalline).",
+      "Consider the warranty period and performance guarantees offered, which can vary between models.",
+      "Assess compatibility with existing inverter and mounting systems to ensure optimal performance."
+    ],
+    "trends": "The solar industry is seeing a shift towards more efficient and sustainable manufacturing processes, with Jinko Solar leading in adopting advanced technologies like PERC (Passivated Emitter Rear Cell) and bifacial panels. The demand for clean energy continues to grow, and Jinko is expanding its global footprint to meet this increasing need, focusing on innovation and efficiency improvements.",
+    "faqs": [
+      {
+        "question": "What types of solar panels does Jinko Solar offer?",
+        "answer": "Jinko Solar offers both monocrystalline and polycrystalline solar panels, catering to a variety of installation requirements."
+      },
+      {
+        "question": "What is the typical efficiency of Jinko Solar panels?",
+        "answer": "Jinko Solar panels typically have efficiencies ranging from 17% to over 22%, depending on the model."
+      },
+      {
+        "question": "How long is the warranty on Jinko Solar panels?",
+        "answer": "Jinko Solar generally offers a 10 to 12-year product warranty and a 25-year linear power output warranty."
+      },
+      {
+        "question": "Are Jinko Solar panels suitable for residential installations?",
+        "answer": "Yes, Jinko Solar panels are well-suited for residential installations, with various models designed to meet different energy needs."
+      },
+      {
+        "question": "Where are Jinko Solar panels manufactured?",
+        "answer": "Jinko Solar panels are manufactured in several locations worldwide, including China, Malaysia, and the United States, ensuring a global supply chain."
+      }
+    ]
+  }
+}

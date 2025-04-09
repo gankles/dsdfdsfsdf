@@ -1,0 +1,80 @@
+{
+  "name": "Q CELLS Q.PEAK DUO",
+  "slug": "q-cells-q-peak-duo",
+  "type": "monocrystalline",
+  "manufacturer": "Q CELLS",
+  "efficiency": 0.2,
+  "power_output": 340,
+  "warranty_years": 25,
+  "price_per_watt": 1,
+  "dimensions": {
+    "length": 1740,
+    "width": 1030,
+    "depth": 32
+  },
+  "weight": 19.9,
+  "country": "Germany",
+  "region": "Saxony",
+  "applications": [
+    "residential",
+    "commercial"
+  ],
+  "features": [
+    "half-cut-cells",
+    "anti-LID",
+    "mid-range"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "High-quality half-cut cell panel with excellent reliability",
+  "pros": [
+    "good efficiency",
+    "anti-LID technology",
+    "competitive price",
+    "reliable performance"
+  ],
+  "cons": [
+    "moderate power output",
+    "standard aesthetics"
+  ],
+  "tags": [
+    "mid-range",
+    "half-cut-cells",
+    "monocrystalline",
+    "anti-LID",
+    "residential",
+    "commercial"
+  ],
+  "aiContent": {
+    "detailed_description": "The Q CELLS Q.PEAK DUO is a high-quality monocrystalline solar panel that utilizes advanced half-cut cell technology to maximize energy yield and reduce shading losses. With an impressive efficiency of 20%, this panel delivers a power output of 340 watts, making it a reliable choice for both residential and commercial applications. Manufactured in Germany, it incorporates anti-LID technology to ensure long-term performance and durability, backed by a 25-year warranty.",
+    "installation_tips": [
+      "Ensure proper orientation towards the sun for maximum exposure.",
+      "Install the panels at an optimal angle to increase energy capture.",
+      "Use high-quality mounting hardware to secure the panels and withstand adverse weather."
+    ],
+    "maintenance_guide": "Keep the panels clean by regularly removing dirt, debris, and snow to maintain optimal performance. Periodically check for any shading from nearby trees or structures that could impact energy output. Inspect electrical connections and cables for wear and tear to ensure long-term reliability.",
+    "performance_factors": [
+      "Ambient temperature: Higher temperatures can reduce efficiency.",
+      "Shading: Any shading from trees or buildings can significantly impact performance.",
+      "Panel orientation and tilt: Proper installation angle maximizes sunlight exposure."
+    ],
+    "roi_analysis": "The Q CELLS Q.PEAK DUO offers a competitive price of $1 per watt, leading to an estimated payback period of 5-7 years depending on local electricity rates and incentives. With a 25-year warranty, the long-term reliability of this panel can yield significant savings on energy bills over its lifetime.",
+    "environmental_impact": "By harnessing solar energy, the Q.PEAK DUO contributes to reducing carbon emissions and reliance on fossil fuels. Its production adheres to strict environmental standards, and the panel's durability reduces the need for replacements, further minimizing waste.",
+    "comparison_notes": "Compared to other solar panels in its class, the Q.PEAK DUO stands out with its anti-LID technology and competitive pricing. While it offers moderate power output compared to some high-end models, its efficiency and reliability make it a strong contender for both residential and commercial installations.",
+    "ideal_use_cases": [
+      "Residential rooftop installations where space is limited but efficiency is paramount.",
+      "Commercial solar systems looking for reliable performance with a good ROI.",
+      "Agricultural applications where shading and temperature variations are common."
+    ],
+    "additional_tags": [
+      "monocrystalline",
+      "solar energy",
+      "Q CELLS",
+      "high efficiency",
+      "sustainable technology"
+    ]
+  }
+}

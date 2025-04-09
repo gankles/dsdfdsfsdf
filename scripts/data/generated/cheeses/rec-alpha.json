@@ -1,0 +1,78 @@
+{
+  "name": "REC Alpha",
+  "slug": "rec-alpha",
+  "type": "monocrystalline",
+  "manufacturer": "REC Group",
+  "efficiency": 0.21,
+  "power_output": 380,
+  "warranty_years": 25,
+  "price_per_watt": 1.4,
+  "dimensions": {
+    "length": 1721,
+    "width": 1016,
+    "depth": 30
+  },
+  "weight": 19.5,
+  "country": "Singapore",
+  "applications": [
+    "residential",
+    "commercial"
+  ],
+  "features": [
+    "heterojunction-technology",
+    "half-cut-cells",
+    "premium"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "High-performance heterojunction panel with half-cut cell technology",
+  "pros": [
+    "excellent efficiency",
+    "innovative design",
+    "strong warranty",
+    "good temperature coefficient"
+  ],
+  "cons": [
+    "premium price",
+    "limited availability in some regions"
+  ],
+  "tags": [
+    "premium",
+    "heterojunction",
+    "half-cut-cells",
+    "monocrystalline",
+    "residential"
+  ],
+  "aiContent": {
+    "detailed_description": "The REC Alpha is a high-performance solar panel that utilizes advanced heterojunction technology and half-cut cell design to achieve an impressive efficiency of 21%. With a power output of 380 watts, this monocrystalline panel is engineered for optimal energy production, making it suitable for both residential and commercial applications. The panel features a sleek design with a dimension of 1721mm x 1016mm x 30mm and weighs 19.5kg. Manufactured by REC Group in Singapore, the Alpha series is recognized for its premium quality and durability.",
+    "installation_tips": [
+      "Ensure the installation area is free from shade to maximize sunlight exposure.",
+      "Use appropriate mounting systems that can support the panel's weight and dimensions.",
+      "Regularly check the angle of installation to ensure it is optimized for local solar conditions."
+    ],
+    "maintenance_guide": "To maintain the REC Alpha for optimal performance, regularly clean the panel surface to remove dirt and debris that can block sunlight. Perform periodic inspections for any physical damage or loose connections. Monitor the panel's performance using a solar monitoring system to ensure it operates at peak efficiency.",
+    "performance_factors": [
+      "Temperature: The panel has a good temperature coefficient, meaning it performs well in high temperatures.",
+      "Installation Angle: The angle at which the panels are installed can significantly affect energy output.",
+      "Shading: Any shading on the panels can reduce their efficiency considerably."
+    ],
+    "roi_analysis": "The REC Alpha panel, priced at $1.4 per watt, offers a strong return on investment due to its high efficiency and long 25-year warranty. Homeowners and businesses can expect substantial energy savings over the lifespan of the panel, with payback periods generally ranging from 5 to 8 years, depending on local energy prices and incentives.",
+    "environmental_impact": "The REC Alpha contributes positively to the environment by providing a clean, renewable source of energy that reduces reliance on fossil fuels. Its long lifespan and efficiency mean fewer panels are needed to generate the same amount of energy, which also minimizes resource consumption and waste.",
+    "comparison_notes": "Compared to similar products in the market, the REC Alpha stands out with its superior efficiency and innovative design. While it comes at a premium price, the benefits of longevity and lower energy costs often outweigh the initial investment. Its limited availability in some regions may also affect its competitiveness.",
+    "ideal_use_cases": [
+      "Residential rooftops where space optimization is crucial and efficiency is a priority.",
+      "Commercial installations that require high output from a limited area.",
+      "Solar farms that benefit from the high energy yield per panel."
+    ],
+    "additional_tags": [
+      "monocrystalline",
+      "high efficiency",
+      "solar energy",
+      "renewable energy",
+      "premium quality"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Anti-LID Solar Panels",
+  "slug": "anti-lid",
+  "description": "Solar panels tagged as anti-LID.",
+  "products": [
+    "q-cells-q-peak-duo"
+  ],
+  "count": 1,
+  "aiContent": {
+    "overview": "Anti-LID solar panels are designed to mitigate Light-Induced Degradation (LID), a phenomenon that reduces the efficiency of solar panels when exposed to sunlight. These panels utilize advanced materials and technologies to ensure a higher level of performance and longevity, making them a reliable choice for both residential and commercial solar installations.",
+    "benefits": [
+      "Enhanced durability and longevity due to reduced susceptibility to LID.",
+      "Higher energy output and efficiency, particularly in the initial years of operation.",
+      "Improved reliability and performance guarantees from manufacturers."
+    ],
+    "considerations": [
+      "Cost may be higher compared to standard solar panels due to advanced technology.",
+      "Availability of specific models may vary by region and manufacturer.",
+      "Installation requirements may differ, necessitating experienced installers familiar with Anti-LID technology."
+    ],
+    "trends": "The demand for Anti-LID solar panels is growing as awareness of LID's impact on energy production increases. Manufacturers are continuously innovating to create more efficient panels that can withstand various environmental conditions, leading to a brighter future for solar technology.",
+    "faqs": [
+      {
+        "question": "What is Light-Induced Degradation (LID)?",
+        "answer": "LID is a reduction in the efficiency of solar panels caused by exposure to sunlight, particularly in the first few hours of operation."
+      },
+      {
+        "question": "How do Anti-LID solar panels differ from standard panels?",
+        "answer": "Anti-LID solar panels are specifically engineered to minimize the effects of LID, ensuring better performance and longevity compared to standard panels."
+      },
+      {
+        "question": "Are Anti-LID solar panels more expensive?",
+        "answer": "Yes, they tend to be more expensive due to the advanced technology and materials used in their construction."
+      },
+      {
+        "question": "Can I install Anti-LID panels on any roof?",
+        "answer": "Yes, Anti-LID panels can be installed on most roofs, but it's important to consult with a professional to determine the best options for your specific situation."
+      },
+      {
+        "question": "What is an example of an Anti-LID solar panel?",
+        "answer": "One example of an Anti-LID solar panel is the Q CELLS Q.PEAK DUO, which is a monocrystalline panel with 20% efficiency and a power output of 340 watts."
+      }
+    ]
+  }
+}

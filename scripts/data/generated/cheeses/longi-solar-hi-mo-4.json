@@ -1,0 +1,81 @@
+{
+  "name": "LONGi Solar Hi-MO 4",
+  "slug": "longi-solar-hi-mo-4",
+  "type": "monocrystalline",
+  "manufacturer": "LONGi Solar",
+  "efficiency": 0.2,
+  "power_output": 370,
+  "warranty_years": 25,
+  "price_per_watt": 0.85,
+  "dimensions": {
+    "length": 1776,
+    "width": 1052,
+    "depth": 35
+  },
+  "weight": 19.5,
+  "country": "China",
+  "region": "Shaanxi",
+  "applications": [
+    "residential",
+    "commercial",
+    "utility"
+  ],
+  "features": [
+    "cost-effective",
+    "reliable",
+    "widely-available"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "High-efficiency monocrystalline panel at a competitive price point",
+  "pros": [
+    "good efficiency",
+    "competitive price",
+    "reliable manufacturer",
+    "widely available"
+  ],
+  "cons": [
+    "standard aesthetics",
+    "moderate brand recognition"
+  ],
+  "tags": [
+    "value",
+    "monocrystalline",
+    "widely-available",
+    "residential",
+    "commercial",
+    "utility-scale"
+  ],
+  "aiContent": {
+    "detailed_description": "The LONGi Solar Hi-MO 4 is a high-efficiency monocrystalline solar panel designed for diverse applications, including residential, commercial, and utility-scale installations. With an efficiency rating of 20% and a maximum power output of 370 watts, it delivers a reliable performance while maintaining a competitive price point. This panel stands out in the market for its cost-effectiveness and robust design.",
+    "installation_tips": [
+      "Ensure the panel is mounted at an optimal angle to maximize sunlight exposure throughout the day.",
+      "Use appropriate mounting hardware to secure the panel, considering local weather conditions.",
+      "Regularly check wiring and connections during installation to prevent future issues."
+    ],
+    "maintenance_guide": "To maintain optimal performance, clean the panels regularly to remove dust and debris, especially in dusty or polluted areas. Inspect the panels for any signs of damage or wear and ensure that wiring is intact. Annual professional check-ups can help to identify any potential issues early.",
+    "performance_factors": [
+      "Sunlight intensity: The efficiency of the panel is directly related to the amount of sunlight it receives.",
+      "Temperature: Higher temperatures can decrease the efficiency of solar panels, so consider cooling solutions in hot climates.",
+      "Shading: Ensure that no objects cast shadows on the panels, as this can significantly reduce their performance."
+    ],
+    "roi_analysis": "With a price per watt of $0.85, the LONGi Solar Hi-MO 4 panel offers a cost-effective solution for solar energy generation. Considering the average lifespan of 25 years and potential savings on energy bills, customers can expect a favorable return on investment, particularly in areas with high electricity costs.",
+    "environmental_impact": "The LONGi Solar Hi-MO 4 panels contribute to reducing carbon emissions by providing a clean, renewable source of energy. By utilizing these panels, users can significantly lower their carbon footprint and promote sustainable energy practices.",
+    "comparison_notes": "Compared to other solar panels in the same category, the LONGi Solar Hi-MO 4 offers higher efficiency and a competitive price. While its aesthetics may be standard, its performance and reliability make it a strong contender against brands with higher recognition.",
+    "ideal_use_cases": [
+      "Residential rooftop installations where space is limited but efficiency is a priority.",
+      "Commercial buildings seeking to reduce energy costs while benefiting from a reliable energy source.",
+      "Utility-scale solar farms looking for high-output panels that are cost-effective."
+    ],
+    "additional_tags": [
+      "monocrystalline",
+      "high-efficiency",
+      "LONGi Solar",
+      "solar energy",
+      "renewable energy"
+    ]
+  }
+}

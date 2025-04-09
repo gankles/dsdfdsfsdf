@@ -1,0 +1,81 @@
+{
+  "name": "Canadian Solar HiKu",
+  "slug": "canadian-solar-hiku",
+  "type": "monocrystalline",
+  "manufacturer": "Canadian Solar",
+  "efficiency": 0.2,
+  "power_output": 370,
+  "warranty_years": 25,
+  "price_per_watt": 0.9,
+  "dimensions": {
+    "length": 2108,
+    "width": 1048,
+    "depth": 40
+  },
+  "weight": 24.9,
+  "country": "Canada",
+  "region": "Ontario",
+  "applications": [
+    "residential",
+    "commercial",
+    "utility"
+  ],
+  "features": [
+    "cost-effective",
+    "durable",
+    "high-power"
+  ],
+  "certifications": [
+    "UL",
+    "IEC",
+    "CEC"
+  ],
+  "description": "High-power solar panel with excellent value for money",
+  "pros": [
+    "good efficiency",
+    "competitive price",
+    "reliable manufacturer",
+    "high power output"
+  ],
+  "cons": [
+    "heavier than some competitors",
+    "moderate aesthetics"
+  ],
+  "tags": [
+    "value",
+    "high-power",
+    "monocrystalline",
+    "utility-scale",
+    "residential",
+    "commercial"
+  ],
+  "aiContent": {
+    "detailed_description": "The Canadian Solar HiKu is a high-power monocrystalline solar panel designed to deliver exceptional efficiency and reliability. With a remarkable power output of 370 watts and an efficiency rating of 20%, it provides an excellent value for money while ensuring optimal performance even in less-than-ideal conditions. This panel is built to withstand harsh weather, making it suitable for a variety of applications including residential, commercial, and utility-scale projects.",
+    "installation_tips": [
+      "Ensure the panels are installed at an optimal angle to maximize sunlight exposure.",
+      "Use high-quality mounting hardware to secure the panels and minimize vibration.",
+      "Conduct a shading analysis of the installation site to avoid performance loss due to obstructions."
+    ],
+    "maintenance_guide": "Regular maintenance involves cleaning the panel surfaces to remove dirt and debris, which can impact performance. Inspect the installation for any signs of wear or damage, especially the wiring and mounting systems. It is advisable to have a professional check the system annually to ensure it operates at optimal efficiency.",
+    "performance_factors": [
+      "Geographical location and solar irradiance levels affect overall energy production.",
+      "Weather conditions, such as temperature and cloud cover, can influence panel efficiency.",
+      "Installation angle and orientation play a critical role in maximizing energy capture."
+    ],
+    "roi_analysis": "With a price per watt of $0.9, the Canadian Solar HiKu offers a competitive return on investment. Based on average energy savings and incentives, homeowners and businesses can expect to recoup their initial investment within 5-7 years, depending on local utility rates and sunlight exposure.",
+    "environmental_impact": "By using solar energy, the Canadian Solar HiKu helps reduce reliance on fossil fuels, decreasing greenhouse gas emissions and contributing to a cleaner environment. The panel's long lifespan of 25 years also means that it will continue to provide sustainable energy for decades.",
+    "comparison_notes": "Compared to other panels in the same category, the Canadian Solar HiKu stands out for its high power output and efficiency at a competitive price. However, it is heavier than some competitors, which may require additional structural support during installation. Its aesthetics may also be considered moderate when compared to sleeker designs from other manufacturers.",
+    "ideal_use_cases": [
+      "Residential solar installations looking for efficient, high-output solutions.",
+      "Commercial rooftops requiring durable panels with good energy production.",
+      "Utility-scale projects needing reliable performance under diverse environmental conditions."
+    ],
+    "additional_tags": [
+      "monocrystalline",
+      "high efficiency",
+      "reliable",
+      "cost-effective",
+      "durable"
+    ]
+  }
+}
